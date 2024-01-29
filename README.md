@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...full stack development
 - 🌱 I’m currently learning ... javascript
 - 📫 How to reach me ... dylan.kriz@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... I was a high school teacher for six years!
 
 <!---
 kodiakorange/kodiakorange is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
